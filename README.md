@@ -1,35 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <meta charset="UTF-8">
-  <title>AutoStory: The Interactive Narrative Generator</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      line-height: 1.6;
-      margin: 20px;
-    }
-    pre {
-      background-color: #f4f4f4;
-      padding: 10px;
-      overflow-x: auto;
-    }
-    code {
-      font-family: Consolas, monospace;
-    }
-    ul, ol {
-      margin-left: 20px;
-    }
-    a {
-      text-decoration: none;
-      color: #0366d6;
-    }
-    a:hover {
-      text-decoration: underline;
-    }
-  </style>
-</head>
-<body>
+
   <h1>AutoStory: The Interactive Narrative Generator</h1>
   
   <h2>Overview</h2>
